@@ -1,4 +1,4 @@
-# cadastro-de-devs
+# cadastro de Devs
 - Projeto de uma página de cadastro para DEVs usando HTML e CSS.
 
 
